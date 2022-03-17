@@ -1,5 +1,3 @@
-<i>*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
-
 <div>
   <a href="https://github.com/qwerty541">
     <img align="left" height="170" alt="My GitHub stats" src="https://github-readme-stats.qwerty541.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
