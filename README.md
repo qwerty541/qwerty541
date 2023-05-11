@@ -18,15 +18,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=default&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=default&hide_border=true&cache_seconds=1800"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&cache_seconds=1800"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=default&hide_border=true&cache_seconds=1800"
+       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&cache_seconds=1800"
        alt="My GitHub top languages stats"
      />
   </picture>
