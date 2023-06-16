@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=default"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=default&show_total_reviews=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=default"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=default&show_total_reviews=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-       src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=default"
+       src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=default&show_total_reviews=true"
        alt="My GitHub stats"
      />
   </picture>
