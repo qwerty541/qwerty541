@@ -2,7 +2,7 @@
 <div align="center"> 
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=progress&show=reviews,discussions_started,discussions_answered#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered#gh-light-mode-only"
       alt="My Github stats"
       height="250"
     />
@@ -20,7 +20,7 @@
 <div align="center"> 
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=progress&show=reviews,discussions_started,discussions_answered#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered#gh-dark-mode-only"
       alt="My Github stats"
       height="250"
     />
