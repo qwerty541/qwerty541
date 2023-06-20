@@ -18,19 +18,23 @@
   </a>
 </div>
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=qwerty541&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=qwerty541&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
+<!-- Streal stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
        src="https://streak-stats.demolab.com/?user=qwerty541&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
-  </picture>
-</p>
+  </a>
+</div>
+
+
+<!-- Streal stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+    <img
+       src="https://streak-stats.demolab.com/?user=qwerty541&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
