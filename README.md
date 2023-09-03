@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
 
-I'm a software engineer from Ukraine with 5 years of commercial development experience. I'm currently working on [Overvis Cloud Platform](https://www.overvis.com/). I love contributing to open source projects and playing video games. One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
+I'm a software engineer from Ukraine with 5 years of commercial development experience. I'm currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment. I love contributing to open source projects and playing video games. One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
 
 <!-- GRS (Light Mode) -->
 <div align="center"> 
