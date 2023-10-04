@@ -4,6 +4,8 @@
 
 I'm a software engineer from Ukraine with 5 years of commercial development experience. I'm currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment. I love contributing to open source projects and playing video games. One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/qwerty541zxc)
+
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/qwerty541#gh-light-mode-only">
