@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Alexandr
 
 [![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
 - I'm a software engineer from Ukraine with 5 years of commercial development experience.
 - Currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment.
