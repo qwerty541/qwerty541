@@ -76,7 +76,7 @@
   </a>
 </div>
 
-<!-- Wakatime stats (Light mode) -->
+<!-- WakaTime stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
@@ -86,7 +86,7 @@
   </a>
 </div>
 
-<!-- Wakatime stats (Dark mode) -->
+<!-- WakaTime stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
