@@ -80,7 +80,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&hide_border=true"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
       />
   </a>
@@ -90,7 +90,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
       />
   </a>
