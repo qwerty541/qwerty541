@@ -55,7 +55,7 @@
   </table>
 </a>
 
-<!-- Streal stats (Light mode) -->
+<!-- Streak stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
@@ -66,7 +66,7 @@
 </div>
 
 
-<!-- Streal stats (Dark mode) -->
+<!-- Streak stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
