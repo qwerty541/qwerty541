@@ -24,7 +24,7 @@
       </td>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
             alt="My Language stats"
             width="280"
           />
@@ -46,7 +46,7 @@
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
           alt="My Language stats"
           width="280"
         />
