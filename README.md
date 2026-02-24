@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
-- I'm a software engineer from Ukraine with 5 years of commercial development experience.
+- I'm a software engineer from Ukraine with 6 years of commercial development experience.
 - Building the future of foodservice industry at [ChefsList](https://www.chefslist.de/).
 - In my free time i love contributing to open source projects and playing video games.
 - One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
