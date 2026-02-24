@@ -4,7 +4,7 @@
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
 - I'm a software engineer from Ukraine with 5 years of commercial development experience.
-- Currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment.
+- Building the future of foodservice industry at [ChefsList](https://www.chefslist.de/).
 - In my free time i love contributing to open source projects and playing video games.
 - One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
 - Creator of several small Rust crates ([dns-bench](https://github.com/qwerty541/dns-bench), [logged-tcp-proxy](https://github.com/qwerty541/logged-tcp-proxy) and [logged-stream](https://github.com/qwerty541/logged-stream)) and [OpenCart 3 plugins](https://github.com/overvis/opencart-plugins).
